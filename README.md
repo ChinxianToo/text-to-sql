@@ -58,7 +58,7 @@ pip install -r requirements.txt
 2. **Set up OpenAI API:**
   ```bash
   # Get API key from https://platform.openai.com/api-keys
-  export OPENAI_API_KEY="sk-your-actual-api-key-here"
+  export OPENAI_API_KEY=""
   ```
 
 3. **Run the setup script:**
